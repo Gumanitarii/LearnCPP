@@ -6,7 +6,7 @@ The training course is based on materials from the site https://www.learncpp.com
 
 
 
-Изучение С++ (основыван на learncpp.com)
+Изучение С++ (основан на learncpp.com)
 
 Этот проект создан с целью визуализации и сохранения результатов самостоятельного изучения языка С++.
 Учебный курс основан на материалах с сайта https://www.learncpp.com/
